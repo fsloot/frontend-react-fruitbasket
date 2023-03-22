@@ -1,0 +1,26 @@
+.buttons {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.buttons h2 {
+    width: 200px;
+}
+
+.buttons button {
+    padding: 8px 16px;
+    margin: 16px 0;
+}
+
+.dataform {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 5px;
+}
+
+/*.dataform label {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*}*/
